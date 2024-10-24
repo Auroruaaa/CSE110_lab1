@@ -79,7 +79,7 @@ Here is a link to the [README.md](README.md) under add-read-me branch.
 
 > _ME WRITING CODE_
 
-<img width="450" alt="Screenshot 2024-04-03 at 12 55 58" src="https://github.com/Auroruaaa/CSE110/assets/116754028/41a0be79-2b93-4f2b-baaa-e522f3b12451">
+<img width="450" alt="Screenshot 2024-04-03 at 12 55 58" src="https://github.com/Auroruaaa/CSE110_lab1/assets/116754028/41a0be79-2b93-4f2b-baaa-e522f3b12451">
 
 
 
